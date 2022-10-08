@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+Buy Me a burger 🍔 https://www.buymeacoffee.com/Hovsep93
+
+YT: https://www.youtube.com/channel/UCGXPdri3jaqvIsKGVnFrY6A/featured
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
